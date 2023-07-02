@@ -1,10 +1,9 @@
 # GreddIIT, the clone of Reddit (but better)
 
-## **Running the App**
+## **To Run the Application**
 
----
 
-Clone the github repository onto your local machine, either by using `git clone` or by directly downloading the zip
+Clone the github repository onto your local machine either by using `git clone` or by directly downloading the zip file.
 
 <br>
 
@@ -12,19 +11,5 @@ Clone the github repository onto your local machine, either by using `git clone`
 
     npm setup-production 
     node server
-
-<br>
-
-> To run the processes individually
-
-- To run the backend
-  ```
-  npm install && node server
-  ```
-- To run the frontend
-  ```
-  cd client
-  npm install && npm start 
-  ```    
 
 <br>
