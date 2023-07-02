@@ -1,4 +1,4 @@
-# GreddIIT, the clone of Reddit (but better)
+# GreddIIIT
 
 ## **To Run the Application**
 
